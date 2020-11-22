@@ -1,0 +1,45 @@
+body{
+  font-family: helvetica;
+  background-image: url("../img/tradingbackground.jpg");
+  background-size: cover;
+  color: white;
+}
+div{
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 40rem;
+  padding: 2rem;
+  border-radius: 7px;
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5rem solid white;
+}
+nav a{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-left: 2rem;
+  font-size: 1.6rem;
+}
+
+nav a:hover{
+  text-decoration: underline;
+}
+
+select{
+  padding: 0.5rem;
+  border: 0.1rem solid black;
+  border-radius: 7px;
+}
+
+input{
+
+    padding: 0.5rem;
+    border: 0.1rem solid black;
+    border-radius: 7px;
+}
+
+.titel{
+  font-size: 2rem;
+
+}
